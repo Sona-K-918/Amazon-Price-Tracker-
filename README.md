@@ -1,6 +1,4 @@
-# Amazon-Price-Tracker-
-
-# Amazon Price Tracker
+# Amazon-Price-Tracker
 
 ## Description
 A Python-based Amazon Price Tracker that monitors product prices and alerts users when prices change.
